@@ -1,0 +1,5 @@
+summary: International domain name library
+webpage: https://www.gnu.org/software/libidn/
+version: 1.42
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/libidn-1.42-macos-12.0-x86_64.tar.xz
+bin-sha: 9d117a38e3188480714912a6d7014a4d4d59669dc289f0fe6f691a27e6ddb728

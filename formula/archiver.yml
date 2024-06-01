@@ -1,0 +1,5 @@
+summary: Cross-platform, multi-format archive utility
+webpage: https://github.com/mholt/archiver
+version: 3.5.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/archiver-3.5.1-macos-12.0-x86_64.tar.xz
+bin-sha: c897a449f6390ec30676d9b983d6e123c424592707feae912ac7a0a1c849cded

@@ -1,0 +1,5 @@
+summary: A command-line tool that allows you to perform DNS lookups from the command line
+webpage: https://c-ares.haxx.se
+version: 1.28.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/adig-1.28.1-macos-12.0-x86_64.tar.xz
+bin-sha: 8842c46d9c1e5d2b4bb6cb1f4212a4f779e100ca9d9d65c76385628901688a30

@@ -1,0 +1,5 @@
+summary: Reference implementation of the ZIM specification
+webpage: https://github.com/openzim/libzim
+version: 9.2.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/libzim-9.2.1-macos-12.0-x86_64.tar.xz
+bin-sha: 064c3e37654279d4c3bccd4be5132dae2083fdedf01f6587df4aeec635910833

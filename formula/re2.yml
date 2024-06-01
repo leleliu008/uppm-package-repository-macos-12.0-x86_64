@@ -1,0 +1,5 @@
+summary: Alternative to backtracking PCRE-style regular expression engines
+webpage: https://github.com/google/re2
+version: 20240401
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/re2-20240401-macos-12.0-x86_64.tar.xz
+bin-sha: 249662e77698e5c0489cad35dc992dbc619786b65ea0e29cc9c91bff495e742c

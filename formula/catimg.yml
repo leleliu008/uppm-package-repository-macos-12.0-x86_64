@@ -1,0 +1,5 @@
+summary: Insanely fast image printing in your terminal
+webpage: https://github.com/posva/catimg
+version: 2.7.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/catimg-2.7.0-macos-12.0-x86_64.tar.xz
+bin-sha: ae11e6cab0db0d84eb21d84247bdd8af9691d9ffa6c52a60fc92267ce9954365

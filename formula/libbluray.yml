@@ -1,0 +1,5 @@
+summary: Blu-Ray disc playback library for media players like VLC
+webpage: https://www.videolan.org/developers/libbluray.html
+version: 1.3.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/libbluray-1.3.4-macos-12.0-x86_64.tar.xz
+bin-sha: 28e834302375dd0bc319cba4a7d97d90a9b24f9be020168bb7912738d890d4c4

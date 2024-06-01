@@ -1,5 +1,5 @@
 summary: Cross-platform make
 webpage: https://www.cmake.org/
-version: 3.26.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos10.15-x86_64/releases/download/2023.04.07/cmake-3.26.0-macos10.15-x86_64.tar.xz
-bin-sha: 327ff49dd72dceab94c005d9f42304eaac2b7b2d76d29edb1d18c3776918d4d4
+version: 3.29.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/cmake-3.29.3-macos-12.0-x86_64.tar.xz
+bin-sha: 3486d3b7cc671e635714c2abd912ccbbd1b1dd34243e232c8bf51bd95b0a9ad8

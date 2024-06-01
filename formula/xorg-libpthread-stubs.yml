@@ -1,0 +1,5 @@
+summary: X.Org pthread-stubs.pc
+webpage: https://www.x.org/
+version: 0.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/xorg-libpthread-stubs-0.4-macos-12.0-x86_64.tar.xz
+bin-sha: bc584890acdd5697ef3710cf9ff2c14b852124072dc2c267273173678d609b70

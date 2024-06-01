@@ -1,0 +1,5 @@
+summary: An extremely fast JavaScript bundler and minifier
+webpage: https://esbuild.github.io
+version: 0.21.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/esbuild-0.21.4-macos-12.0-x86_64.tar.xz
+bin-sha: f23465b66b6c0b60ccb65725be65f9f29a1b7ba2726fb65d77b3d6d093744432

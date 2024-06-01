@@ -1,0 +1,5 @@
+summary: F-Droid client
+webpage: https://github.com/mvdan/fdroidcl
+version: 0.7.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/fdroidcl-0.7.0-macos-12.0-x86_64.tar.xz
+bin-sha: e6b1446fcbb5e9f0402c3e241c117f1bb7d97c5eadb4a079472efa0726989a9a

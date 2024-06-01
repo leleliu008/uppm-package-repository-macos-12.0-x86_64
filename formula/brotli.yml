@@ -1,0 +1,5 @@
+summary: A generic-purpose lossless compression algorithm by Google
+webpage: https://github.com/google/brotli
+version: 1.1.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/brotli-1.1.0-macos-12.0-x86_64.tar.xz
+bin-sha: 853b9f38164fb26157dc4cd431ae3940cc34e239c28a1a8e9ae4790cc5a07776

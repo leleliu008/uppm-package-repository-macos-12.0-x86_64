@@ -1,0 +1,5 @@
+summary: WebM container
+webpage: https://www.webmproject.org/
+version: 1.0.0.31
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/libwebm-1.0.0.31-macos-12.0-x86_64.tar.xz
+bin-sha: d698a1419c2b163c91002b0e54db941ceb0b5cd7daa99c86cee86e335652f449

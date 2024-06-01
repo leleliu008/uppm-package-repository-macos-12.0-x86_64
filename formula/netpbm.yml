@@ -1,0 +1,5 @@
+summary: A toolkit for manipulation of graphic images, including conversion of images between a variety of different formats
+webpage: http://netpbm.sourceforge.net/
+version: 10.86.41
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/netpbm-10.86.41-macos-12.0-x86_64.tar.xz
+bin-sha: 46da836fe577be19b0423bfd7c3b5a0d962cc15a4fb65fae4ec1c671ba10e7fb

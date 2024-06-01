@@ -1,0 +1,5 @@
+summary: Show markdown documents on text terminals
+webpage: https://codeberg.org/flausch/mdcat
+version: 2.1.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/mdcat-2.1.2-macos-12.0-x86_64.tar.xz
+bin-sha: e0b9989e09437a884addeb215f9f3b9d07cbf720648985762c291f0b3eed9683

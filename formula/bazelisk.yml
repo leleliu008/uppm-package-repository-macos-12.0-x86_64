@@ -1,0 +1,5 @@
+summary: A user-friendly launcher for Bazel
+webpage: https://github.com/bazelbuild/bazelisk
+version: 1.20.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/bazelisk-1.20.0-macos-12.0-x86_64.tar.xz
+bin-sha: c8519a320857545cf0918a8a91b8ef952e78338c7a70c0f6d6c516581f3cfbed

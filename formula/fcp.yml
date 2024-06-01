@@ -1,0 +1,5 @@
+summary: A significantly faster alternative to the classic Unix cp(1) command
+webpage: https://github.com/Svetlitski/fcp
+version: 0.2.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/fcp-0.2.1-macos-12.0-x86_64.tar.xz
+bin-sha: aafbceeb48304f28fec155ce023c21b9b48d442e48de2b53308e3464c137ea71

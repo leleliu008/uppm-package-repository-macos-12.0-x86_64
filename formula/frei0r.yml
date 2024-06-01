@@ -1,0 +1,5 @@
+summary: A large collection of free and portable video plugins
+webpage: https://frei0r.dyne.org/
+version: 2.3.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/frei0r-2.3.1-macos-12.0-x86_64.tar.xz
+bin-sha: 61e11a2e65fc68d222ed17518fe8c16637f761920bcca738bffa685ce8099b14

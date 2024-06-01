@@ -1,0 +1,5 @@
+summary: Lightweight unit testing framework for C
+webpage: https://cunit.sourceforge.io
+version: 2.1.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/cunit-2.1.3-macos-12.0-x86_64.tar.xz
+bin-sha: 8034c79cd14334b51d67968141cfeceb68f87212133fe49004d13848d3bfc68c

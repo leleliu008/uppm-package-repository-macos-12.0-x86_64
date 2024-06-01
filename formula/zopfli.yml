@@ -1,5 +1,5 @@
 summary: New zlib (gzip, deflate) compatible compressor
 webpage: https://github.com/google/zopfli
 version: 1.0.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos10.15-x86_64/releases/download/2023.04.07/zopfli-1.0.3-macos10.15-x86_64.tar.xz
-bin-sha: 173d6ef395c8838e107502bc6f41370273824ec225de191f0039d5edee57f623
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/zopfli-1.0.3-macos-12.0-x86_64.tar.xz
+bin-sha: f5aecf2a29e842dfd064672460dcf10ae5160c932b0985eafcc885f560967da8

@@ -1,0 +1,5 @@
+summary: C library for the Public Suffix List
+webpage: https://rockdaboot.github.io/libpsl
+version: 0.21.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/libpsl-0.21.5-macos-12.0-x86_64.tar.xz
+bin-sha: fc6dfab78e3be5dee8331820cb6bf9c08456b70863f09841d56ffd6f2ef7d62e

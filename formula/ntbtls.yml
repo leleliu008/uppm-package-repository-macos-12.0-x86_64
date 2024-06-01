@@ -1,0 +1,5 @@
+summary: Not Too Bad TLS library
+webpage: https://www.gnupg.org/software/ntbtls/index.html
+version: 0.3.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/ntbtls-0.3.2-macos-12.0-x86_64.tar.xz
+bin-sha: f54464d0231d786b83143edb7cce80e0a634b1b6c26d5b29a49821d0acd05572

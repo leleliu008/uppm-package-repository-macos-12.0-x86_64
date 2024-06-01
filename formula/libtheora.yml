@@ -1,0 +1,5 @@
+summary: Open video compression format
+webpage: https://www.theora.org
+version: 1.1.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/libtheora-1.1.1-macos-12.0-x86_64.tar.xz
+bin-sha: 168c9dee418ccacea1fd7308abf30ce3fdda1bc9a96539760c7a78a56b8a0320

@@ -1,0 +1,5 @@
+summary: Framework for layout and rendering of i18n text
+webpage: https://www.pango.org/
+version: 1.52.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/pango-1.52.2-macos-12.0-x86_64.tar.xz
+bin-sha: 34b8612ee822d0cb0426bc1155772c524df8cdc8aef4ca6ec1dd2932ac450f86

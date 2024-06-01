@@ -1,0 +1,5 @@
+summary: GNU troff text-formatting system
+webpage: https://www.gnu.org/software/groff/
+version: 1.23.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/groff-1.23.0-macos-12.0-x86_64.tar.xz
+bin-sha: 83e9118de3364fea4a548b1067f89a6ee9c6d0a3e3eae6a1efeecbb0b71447cd

@@ -1,5 +1,5 @@
-summary: Download Youtube Video in Golang
+summary: A command-line tool to download videos from youtube.com
 webpage: https://github.com/kkdai/youtube
-version: 2.7.18
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos10.15-x86_64/releases/download/2023.04.07/youtubedr-2.7.18-macos10.15-x86_64.tar.xz
-bin-sha: dad79386a0a51bc44c4125c80920d3aeaaeced7b510be7c1f13170b5a8ffdd21
+version: 2.10.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/youtubedr-2.10.1-macos-12.0-x86_64.tar.xz
+bin-sha: 42ce749c74593b5b8b53d67886895c738d61fe2d948984382653b386f0f030d8

@@ -1,0 +1,5 @@
+summary: ISO/IEC 23008-12:2017 HEIF file format decoder and encoder
+webpage: https://www.libde265.org/
+version: 1.17.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/libheif-1.17.6-macos-12.0-x86_64.tar.xz
+bin-sha: f739a6d871e605700adfe1dbed71c208aed94a763b20b0f430f1e68c9643f7e7

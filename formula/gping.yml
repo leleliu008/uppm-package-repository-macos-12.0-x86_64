@@ -1,0 +1,5 @@
+summary: Ping, but with a graph
+webpage: https://github.com/orf/gping
+version: 1.16.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/gping-1.16.1-macos-12.0-x86_64.tar.xz
+bin-sha: 93376462c4df91f751a93e54d7d16d3ad04d902f7c5164409d4ab3e49d9e1168

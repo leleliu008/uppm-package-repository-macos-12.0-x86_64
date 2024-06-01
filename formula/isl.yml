@@ -1,0 +1,5 @@
+summary: Integer Set Library for the polyhedral model
+webpage: https://isl.gforge.inria.fr
+version: 0.26
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/isl-0.26-macos-12.0-x86_64.tar.xz
+bin-sha: 5899c5ca6358ddf4f70ecf45396e74bc44c89357f6b93ade1244dcb1dbbaaed6

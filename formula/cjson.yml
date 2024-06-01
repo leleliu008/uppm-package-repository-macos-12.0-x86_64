@@ -1,0 +1,5 @@
+summary: Ultralightweight JSON parser in ANSI C
+webpage: https://github.com/DaveGamble/cJSON
+version: 1.7.18
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/cjson-1.7.18-macos-12.0-x86_64.tar.xz
+bin-sha: 50f2d07735330a84d048e8f04a1667118af71919a2c06ec2944fbce0ea0b4b4a

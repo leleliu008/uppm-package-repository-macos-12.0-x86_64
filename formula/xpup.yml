@@ -1,0 +1,5 @@
+summary: A command line XML parsing tool
+webpage: https://github.com/ericchiang/xpup
+version: 2024.06.01
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/xpup-2024.06.01-macos-12.0-x86_64.tar.xz
+bin-sha: f852dde1eba9b0808c5f38995dc46da508419d316883b4cb95776b2d9d26f133

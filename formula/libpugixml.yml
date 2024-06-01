@@ -1,0 +1,5 @@
+summary: Light-weight C++ XML processing library
+webpage: https://pugixml.org/
+version: 1.14
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/libpugixml-1.14-macos-12.0-x86_64.tar.xz
+bin-sha: a63284fe402caf5f7fdb6c9b5c6c2b5d770a2638994991dd75cd238d963b2deb

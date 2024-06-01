@@ -1,0 +1,5 @@
+summary: A massively parallel (multi-threaded) combined implementation of the tar archiver and the lzip compressor
+webpage: https://www.nongnu.org/lzip/tarlz.html
+version: 0.25
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/tarlz-0.25-macos-12.0-x86_64.tar.xz
+bin-sha: a6612ccefa2ad5705c95eba837b133aa034222b396b23a0557a7fa6965274359

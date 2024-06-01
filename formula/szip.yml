@@ -1,0 +1,5 @@
+summary: Implementation of extended-Rice lossless compression algorithm
+webpage: https://support.hdfgroup.org/HDF5/release/obtain5.html#extlibs
+version: 2.1.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/szip-2.1.1-macos-12.0-x86_64.tar.xz
+bin-sha: f8240507e06838c4f320669a3e3e41a6ac6f5345eeb9d7545cf4b610df2d16b2

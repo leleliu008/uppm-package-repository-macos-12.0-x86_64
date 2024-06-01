@@ -1,0 +1,5 @@
+summary: Used as a compiler wrapper and avoids compilation when possible
+webpage: https://github.com/mozilla/sccache
+version: 0.8.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/sccache-0.8.1-macos-12.0-x86_64.tar.xz
+bin-sha: 434112105f91a63bc2af3df156556d0c1cdb83f51a89953ddae9b8e06a77e111

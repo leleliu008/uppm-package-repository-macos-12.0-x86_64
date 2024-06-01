@@ -1,0 +1,5 @@
+summary: A git extension for versioning large files
+webpage: https://github.com/git-lfs/git-lfs
+version: 3.5.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/git-lfs-3.5.1-macos-12.0-x86_64.tar.xz
+bin-sha: 597c2b391091317c1e28f36d0e52d15bee60e374c25ff216a9b77d98db5f94c7

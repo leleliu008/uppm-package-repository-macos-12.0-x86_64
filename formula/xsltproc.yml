@@ -1,5 +1,5 @@
-summary: C XSLT library for GNOME
+summary: A command line tool for applying XSLT stylesheets to XML documents
 webpage: http://xmlsoft.org/XSLT
-version: 1.1.37
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos10.15-x86_64/releases/download/2023.04.07/xsltproc-1.1.37-macos10.15-x86_64.tar.xz
-bin-sha: 9ec4fd13781d1d33c4e80eddf6f363be597062e43d98c86d4999d144f08b47e1
+version: 1.1.39
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/xsltproc-1.1.39-macos-12.0-x86_64.tar.xz
+bin-sha: 97ded8942d744a892a3a05c0223e1ff76d97b17bc911db0b79d46db299226de6

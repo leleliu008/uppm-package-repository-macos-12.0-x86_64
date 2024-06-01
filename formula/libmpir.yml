@@ -1,0 +1,5 @@
+summary: Multiple Precision Integers and Rationals (fork of GMP)
+webpage: https://github.com/wbhart/mpir
+version: 3.0.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/libmpir-3.0.0-macos-12.0-x86_64.tar.xz
+bin-sha: 63aea7979da09218f49775c14e4c55692c288c0e1f48a6f9a551a7be08a35b97

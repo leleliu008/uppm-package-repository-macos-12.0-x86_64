@@ -1,0 +1,5 @@
+summary: Unified display of technical and tag data for audio/video
+webpage: https://mediaarea.net/
+version: 24.04
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/libmediainfo-24.04-macos-12.0-x86_64.tar.xz
+bin-sha: 99869b349d4e4a6c8aec4d6febffc15bba741e6b6ad99cc1bf56f0f734dae203

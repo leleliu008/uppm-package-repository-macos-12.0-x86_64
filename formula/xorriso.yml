@@ -1,0 +1,5 @@
+summary: ISO9660+RR manipulation tool
+webpage: https://www.gnu.org/software/xorriso
+version: 1.5.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/xorriso-1.5.6-macos-12.0-x86_64.tar.xz
+bin-sha: 41ae4661949814332b1fc9b44ab3f1d4463366d8d83e94fb4f69b4a94ae6958b

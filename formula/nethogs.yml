@@ -1,0 +1,5 @@
+summary: Net top tool grouping bandwidth per process
+webpage: https://raboof.github.io/nethogs/
+version: 0.8.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/nethogs-0.8.7-macos-12.0-x86_64.tar.xz
+bin-sha: 894bb597b541d28d939786e4581ce22003623f1914ddb2e299595bff72fae932

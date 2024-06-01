@@ -1,0 +1,5 @@
+summary: Sass reimplemented in rust with nom
+webpage: https://github.com/kaj/rsass
+version: 0.25.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64/releases/download/2024.06.01/rsass-0.25.2-macos-12.0-x86_64.tar.xz
+bin-sha: b8a1f6495d6cb83a1d9a79d5634ce18559d17b724326797e6a00818d5e2c2aba
